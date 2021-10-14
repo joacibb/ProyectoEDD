@@ -1,5 +1,10 @@
 package TDAArbol;
 
+import Excepciones.BoundaryViolationException;
+import Excepciones.EmptyTreeException;
+import Excepciones.InvalidOperationException;
+import Excepciones.InvalidPositionException;
+
 /**
  * Interface Tree
  * Es la versión extendida de la interfaz presentada por Goodrich y Tamassia en su cuarta edición. En esta interfaz se incluyen las operaciones necesarias 

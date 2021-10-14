@@ -2,6 +2,10 @@ package TDALista;
 
 import java.util.Iterator;
 
+import Excepciones.BoundaryViolationException;
+import Excepciones.EmptyListException;
+import Excepciones.InvalidPositionException;
+
 /**
  * Interface PositionList
  * @author Cátedra de Estructuras de Datos, Departamento de Cs. e Ing. de la Computación, UNS.
