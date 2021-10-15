@@ -1,5 +1,12 @@
 package TDAArbol;
 
+import java.util.Iterator;
+
+import Excepciones.BoundaryViolationException;
+import Excepciones.EmptyTreeException;
+import Excepciones.InvalidPositionException;
+import TDALista.Position;
+
 /**
  * Interface GTTree
  * Es la interfaz presentada por Goodrich y Tamassia en su cuarta edición. Incluye las operaciones necesarias para manejar un árbol general 

@@ -1,9 +1,12 @@
 package TDAArbol;
 
+import java.util.Iterator;
+
 import Excepciones.BoundaryViolationException;
 import Excepciones.EmptyTreeException;
 import Excepciones.InvalidOperationException;
 import Excepciones.InvalidPositionException;
+import TDALista.Position;
 
 /**
  * Interface Tree
