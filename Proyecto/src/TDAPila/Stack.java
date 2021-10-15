@@ -1,5 +1,7 @@
 package TDAPila;
 
+import Excepciones.EmptyStackException;
+
 /**
  * Interface Stack
  * @author Cátedra de Estructuras de Datos, Departamento de Cs. e Ing. de la Computación, UNS.

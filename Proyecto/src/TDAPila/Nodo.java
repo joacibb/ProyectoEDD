@@ -35,4 +35,3 @@ public class Nodo<E> {
 		siguiente=e;
 	}
 	}
-
